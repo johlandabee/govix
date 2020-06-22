@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hooklift/govmx"
+	vmx "github.com/johlandabee/govmx"
 )
 
 // CDDVDDrive defines CD/DVD configuration type.
