@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hooklift/govmx"
+	vmx "github.com/johlandabee/govmx"
 )
 
 // VMXFile manages VMX files
